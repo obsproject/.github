@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-The OBS Studio GitHub issue tracker is **ONLY** to be used for reporting bugs that have replication steps. New features should be discussed on our [Discord](https://obsproject.com/discord/) or [Ideas](https://ideas.obsproject.com/) page. For support issues, use the Discord or [forums](https://obsproject.com/forum/)
+<!--- The OBS Studio GitHub issue tracker is **ONLY** to be used for reporting bugs that have replication steps. New features should be discussed on our Discord (https://obsproject.com/discord/) or Ideas page (https://ideas.obsproject.com/). For support issues, use the Discord or forums (https://obsproject.com/forum/) -->
 
 <!--- Provide a general summary of the issue in the Title above -->
 
@@ -15,7 +15,8 @@ The OBS Studio GitHub issue tracker is **ONLY** to be used for reporting bugs th
 <!--- Tell us what should happen -->
 
 ## Current Behavior
-<!--- Tell us what happens instead of the expected behavior -->
+<!--- Tell us what happens instead of the expected behavior. -->
+<!--- Please include a log file here if possible. -->
 
 ## Steps to Reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
