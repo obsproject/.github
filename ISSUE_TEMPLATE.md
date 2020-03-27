@@ -1,15 +1,26 @@
 ---
-name: OBS issue template
-about: Primary issue submission template
+name: Bug report
+about: Application crashes or bugs (For feature requests, see ideas.obsproject.com)
 title: "[BUG] <bug description>"
 labels: ''
 assignees: ''
 
 ---
 
-<!--- The OBS Studio GitHub issue tracker is **ONLY** to be used for reporting bugs that have replication steps. New features should be discussed on our Discord (https://obsproject.com/discord/) or Ideas page (https://ideas.obsproject.com/). For support issues, use the Discord or forums (https://obsproject.com/forum/) -->
+<!-- READ THIS FIRST -->
+<!-- The OBS Studio GitHub issue tracker is **ONLY** to be -->
+<!-- used for reporting Bugs that have replication steps. -->
+
+<!-- You can post Feature Requests here: https://ideas.obsproject.com/ -->
+<!-- Get help for Support Issues here: https://obsproject.com/help -->
 
 <!--- Provide a general summary of the issue in the Title above -->
+
+## Platform
+<!-- Please fill out the following information about your bug report. -->
+<!-- If you are on Linux and installed using a package, please list the package type. -->
+Operating system and version:
+OBS Studio version:
 
 ## Expected Behavior
 <!--- Tell us what should happen -->
@@ -20,8 +31,8 @@ assignees: ''
 
 ## Steps to Reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant. Pictures -->
-<!--- and video are encouraged if applicable. -->
+<!--- reproduce this bug. Include code to reproduce, if relevant. -->
+<!--- Screenshots and video are encouraged if applicable. -->
 1.
 2.
 3.
