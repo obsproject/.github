@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Application crashes or bugs (For feature requests, see ideas.obsproject.com)
+about: Application crashes or bugs
 title: "[BUG] <bug description>"
 labels: ''
 assignees: ''
