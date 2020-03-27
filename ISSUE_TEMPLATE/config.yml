@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: OBS Project Community Forums
+    url: https://obsproject.com/forum
+    about: OBS Project Community Forums for discussion and support
+  - name: OBS Project Discord
+    url: https://obsproject.com/discord
+    about: Official OBS Project Discord server
