@@ -33,3 +33,4 @@
 - [ ] My code is not on the master branch.
 - [ ] The code has been tested.
 - [ ] All commit messages are properly formatted and commits squashed where appropriate.
+- [ ] I have included updates to all appropriate documentation.
