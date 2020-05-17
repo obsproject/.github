@@ -1,7 +1,6 @@
 ---
 name: Bug report
 about: Application crashes or bugs
-title: "[BUG] <bug description>"
 labels: ''
 assignees: ''
 
