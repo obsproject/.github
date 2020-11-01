@@ -8,7 +8,7 @@
 
 ### Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open Mantis issue, or implements feature request -->
+<!--- If it fixes an open GitHub Issue, or implements feature request -->
 <!--- from the Ideas page, please link to the issue here. -->
 
 ### How Has This Been Tested?
