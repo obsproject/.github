@@ -20,23 +20,34 @@ assignees: ''
 <!-- If you are on Linux and installed using a package, please list the package type. -->
 Operating system and version:
 OBS Studio version:
+OBS Log file:
 
 ## Expected Behavior
-<!--- Tell us what should happen -->
+<!-- Tell us what should happen -->
 
 ## Current Behavior
-<!--- Tell us what happens instead of the expected behavior. -->
-<!--- Please include a log file here if possible. -->
+<!-- Tell us what happens instead of the expected behavior. -->
+<!-- Please include a log file here if possible. -->
 
 ## Steps to Reproduce
-<!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant. -->
-<!--- Screenshots and video are encouraged if applicable. -->
+<!-- Provide a link to a live example, or an unambiguous set of steps to -->
+<!-- reproduce this bug. Include code to reproduce, if relevant. -->
+<!-- Screenshots and video are encouraged if applicable. -->
 1.
 2.
 3.
 4.
 
 ## Additional information
-<!--- Not obligatory, but provide any additional details or information -->
-<!--- that you feel might be relevant to the issue -->
+<!-- Not obligatory, but provide any additional details or information -->
+<!-- that you feel might be relevant to the issue -->
+
+<!-- If you have a crash log and cannot upload the file directly, -->
+<!-- copy/paste the contents into the tag below and remove the comment -->
+
+<!--
+<details>
+  <summary>Crash Log</summary>
+  POST CRASH HERE
+</details>
+-->
