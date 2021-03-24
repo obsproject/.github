@@ -12,7 +12,7 @@ body:
     label: Operating System Info
     description: What Operating System are you running?
     options:
-    - Windows 10 (Default)
+    - Windows 10
     - Windows 8.1
     - macOS 11.2
     - macOS 11.1
@@ -93,11 +93,15 @@ body:
       1.
       2.
       3.
+      4.
+      5.
       ...
     value: |
       1.
       2.
       3.
+      4.
+      5.
       ...
   validations:
     required: true
