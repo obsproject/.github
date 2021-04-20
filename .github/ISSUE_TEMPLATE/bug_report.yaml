@@ -1,6 +1,5 @@
 name: Bug Report
 description: Report a bug or crash
-issue_body: true
 body:
 - type: markdown
   id: md_welcome
