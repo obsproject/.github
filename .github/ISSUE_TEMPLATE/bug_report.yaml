@@ -41,7 +41,7 @@ body:
     label: OBS Studio Version
     description: What version of OBS Studio are you using?
     options:
-    - 27.0.0-rc2
+    - 27.0.0-rc3
     - 26.1.2
     - 26.1.1
     - 26.1.0
