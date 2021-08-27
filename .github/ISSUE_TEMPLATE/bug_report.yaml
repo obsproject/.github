@@ -13,6 +13,7 @@ body:
     options:
     - Windows 10
     - Windows 8.1
+    - macOS 11.5
     - macOS 11.4
     - macOS 11.3
     - macOS 11.2
