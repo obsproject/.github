@@ -25,8 +25,8 @@ body:
     - macOS 10.15
     - macOS 10.14
     - macOS 10.13
-    - Ubuntu 21.04
-    - Ubuntu 20.10
+    - Ubuntu 22.04
+    - Ubuntu 21.10
     - Ubuntu 20.04
     - Ubuntu 18.04
     - Other
