@@ -41,11 +41,6 @@ body:
     description: What version of OBS Studio are you using?
     options:
     - 27.2.4
-    - 27.2.3
-    - 27.2.2
-    - 27.2.1
-    - 27.2.0
-    - 27.1.3
     - Git
     - Other
   validations:
