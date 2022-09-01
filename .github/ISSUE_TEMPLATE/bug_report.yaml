@@ -13,16 +13,11 @@ body:
     options:
     - Windows 11
     - Windows 10
-    - Windows 8.1
     - macOS 12
     - macOS 11
     - macOS 10.15
-    - macOS 10.14
-    - macOS 10.13
     - Ubuntu 22.04
-    - Ubuntu 21.10
     - Ubuntu 20.04
-    - Ubuntu 18.04
     - Other
   validations:
     required: true
@@ -41,7 +36,6 @@ body:
     description: What version of OBS Studio are you using?
     options:
     - 28.0.0
-    - 27.2.4
     - Git
     - Other
   validations:
