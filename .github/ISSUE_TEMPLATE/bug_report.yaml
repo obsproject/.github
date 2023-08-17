@@ -17,9 +17,8 @@ body:
     - macOS 13
     - macOS 12
     - macOS 11
-    - Ubuntu 22.10
+    - Ubuntu 23.10
     - Ubuntu 22.04
-    - Ubuntu 20.04
     - Other
   validations:
     required: true
