@@ -54,7 +54,7 @@ body:
   id: obs_log_url
   attributes:
     label: OBS Studio Log URL
-    description: Please provide the obsproject.com URL (from Help menu > Log Files > Upload Current/Previous Log File) to the OBS log file where this issue occurred.
+    description: Please provide the obsproject.com URL (from Help menu > Log Files > Upload Current/Previous Log File) to the OBS log file where this issue occurred. Bug reports without a log file will get closed without further notice.
   validations:
     required: true
 - type: input
