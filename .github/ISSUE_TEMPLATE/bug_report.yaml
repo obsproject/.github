@@ -37,7 +37,6 @@ body:
     description: What version of OBS Studio are you using?
     options:
     - 31.0.3
-    - 30.2.3
     - Git
     - Other
   validations:
