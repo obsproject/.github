@@ -46,7 +46,7 @@ body:
   id: obs_version_other
   attributes:
     label: OBS Studio Version (Other)
-    description: "If \"Other\" was selected above, what version of OBS Studio are you using?"
+    description: "If \"Git"\ or \"Other\" was selected above, what version of OBS Studio are you using?"
   validations:
     required: false
 - type: input
