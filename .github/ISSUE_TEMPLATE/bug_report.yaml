@@ -18,7 +18,6 @@ body:
     - macOS 14
     - macOS 13
     - macOS 12
-    - macOS 11
     - Ubuntu 24.04
     - Other
   validations:
