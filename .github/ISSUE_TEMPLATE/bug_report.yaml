@@ -37,7 +37,7 @@ body:
     label: OBS Studio Version
     description: What version of OBS Studio are you using?
     options:
-    - 33.0.0-beta6
+    - 33.0.0-rc1
     - 32.2.2
     - 32.1.2
     - Git
